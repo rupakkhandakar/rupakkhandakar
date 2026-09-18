@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/rupakkhandakar/termux-banner-tool">
-    <img src="https://img.shields.io/badge/🎨_termux--banner--tool-35_logos-00FF9C?style=for-the-badge" alt="termux-banner-tool" />
+    <img src="https://img.shields.io/badge/🎨_termux--banner--tool-35_logos-ff0000?style=for-the-badge" alt="termux-banner-tool" />
     <img src="https://img.shields.io/github/stars/rupakkhandakar/termux-banner-tool?style=for-the-badge" alt="termux stars" />
   </a>
 </p>
