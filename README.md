@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://t.me/RupakKhandakar"><img src="https://img.shields.io/badge/Telegram-Join_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://x.com/rupak_khandakar"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <img src="https://komarev.com/ghpvc/?username=rupakkhandakar&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -91,6 +92,7 @@
 
 <p align="center">
   <a href="https://t.me/RupakKhandakar"><img src="https://img.shields.io/badge/Telegram-@RupakKhandakar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram channel" /></a>
+  <a href="https://x.com/rupak_khandakar"><img src="https://img.shields.io/badge/X-@rupak_khandakar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" /></a>
 </p>
 
 <p align="center"><i>⚡ Have an idea — app, bot, drone or gadget? Let's build it together. ⚡</i></p>
