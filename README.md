@@ -56,10 +56,15 @@
 
 <p align="center">
   <a href="https://github.com/rupakkhandakar/termux-banner-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rupakkhandakar&repo=termux-banner-tool&theme=tokyonight" alt="termux-banner-tool" />
+    <img src="https://img.shields.io/badge/🎨_termux--banner--tool-35_logos-00FF9C?style=for-the-badge" alt="termux-banner-tool" />
+    <img src="https://img.shields.io/github/stars/rupakkhandakar/termux-banner-tool?style=for-the-badge" alt="termux stars" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/rupakkhandakar/powershell-banner-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rupakkhandakar&repo=powershell-banner-tool&theme=tokyonight" alt="powershell-banner-tool" />
+    <img src="https://img.shields.io/badge/💻_powershell--banner--tool-30_logos-5391FE?style=for-the-badge" alt="powershell-banner-tool" />
+    <img src="https://img.shields.io/github/stars/rupakkhandakar/powershell-banner-tool?style=for-the-badge" alt="powershell stars" />
   </a>
 </p>
 
@@ -71,12 +76,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupakkhandakar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rupakkhandakar&theme=tokyonight" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=rupakkhandakar&theme=tokyonight&hide_border=true" alt="Streak stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupakkhandakar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rupakkhandakar&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rupakkhandakar&theme=tokyonight" alt="Most commit language" />
 </p>
 
 ---
