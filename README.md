@@ -47,6 +47,17 @@
 
 ### 📈 Metrics
 
+<p align="center"><b>🔴 LIVE — updates in minutes (refresh page to see new stars / followers):</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/rupakkhandakar?style=for-the-badge&logo=github&label=Followers&cacheSeconds=60" alt="Live followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rupakkhandakar&query=%24.public_repos&label=Repos&style=for-the-badge&color=blue&cacheSeconds=60" alt="Live repos" />
+  <img src="https://img.shields.io/github/stars/rupakkhandakar/termux-banner-tool?style=for-the-badge&logo=github&label=termux+stars&cacheSeconds=60" alt="Live termux stars" />
+  <img src="https://img.shields.io/github/stars/rupakkhandakar/powershell-banner-tool?style=for-the-badge&logo=github&label=powershell+stars&cacheSeconds=60" alt="Live powershell stars" />
+</p>
+
+<p align="center"><i>📊 Detailed cards below refresh every ~4h (Vercel cache) — numbers can lag behind the live badges above.</i></p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rupakkhandakar&theme=dracula" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rupakkhandakar&theme=dracula" alt="Profile" />
