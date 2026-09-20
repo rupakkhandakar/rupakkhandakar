@@ -9,6 +9,7 @@
   <a href="https://t.me/RK_support_group"><img src="https://img.shields.io/badge/Support_Group-RK_support_group-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Support group" /></a>
   <a href="https://t.me/RupakKhandakar"><img src="https://img.shields.io/badge/Channel-@RupakKhandakar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Channel" /></a>
   <a href="https://x.com/rupak_khandakar"><img src="https://img.shields.io/badge/X-@rupak_khandakar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:fpv.k@proton.me"><img src="https://img.shields.io/badge/Email-fpv.k@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=rupakkhandakar&color=FF6B9D&style=for-the-badge&label=Views" alt="Views" />
 </p>
 
@@ -18,7 +19,7 @@
 
 - 🎯 Focus right now: polishing my two banner tools + growing the AI assistant
 - 🧪 Playground: Python, JavaScript, Shell, Arduino, Raspberry Pi
-- 🤝 Open to collabs — DM me via [contact account](https://t.me/Rupak_Khandakar), ask in [support group](https://t.me/RK_support_group), or follow the [channel](https://t.me/RupakKhandakar)
+- 🤝 Open to collabs — DM me via [contact account](https://t.me/Rupak_Khandakar), ask in [support group](https://t.me/RK_support_group), follow the [channel](https://t.me/RupakKhandakar), or mail [fpv.k@proton.me](mailto:fpv.k@proton.me)
 
 ---
 
@@ -30,4 +31,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" width="100%" />
 
-<p align="center"><i>⚡ App, bot, drone or gadget — let's build it.<br/>📩 <a href="https://t.me/Rupak_Khandakar">Contact me</a> · 🛟 <a href="https://t.me/RK_support_group">Support group</a> · 📢 <a href="https://t.me/RupakKhandakar">Channel</a> · ✖️ <a href="https://x.com/rupak_khandakar">X</a> ⚡</i></p>
+<p align="center"><i>⚡ App, bot, drone or gadget — let's build it.<br/>📩 <a href="https://t.me/Rupak_Khandakar">Contact me</a> · 🛟 <a href="https://t.me/RK_support_group">Support group</a> · 📢 <a href="https://t.me/RupakKhandakar">Channel</a> · ✖️ <a href="https://x.com/rupak_khandakar">X</a> · ✉️ <a href="mailto:fpv.k@proton.me">fpv.k@proton.me</a> ⚡</i></p>
