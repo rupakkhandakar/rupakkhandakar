@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/Rupak_Khandakar"><img src="https://img.shields.io/badge/Contact_Me-@Rupak_Khandakar-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Contact me" /></a>
-  <a href="https://t.me/RK_support_group"><img src="https://img.shields.io/badge/Support_Group-RK_support_group-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Support group" /></a>
-  <a href="https://t.me/RupakKhandakar"><img src="https://img.shields.io/badge/Channel-@RupakKhandakar-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Channel" /></a>
-  <a href="https://x.com/rupak_khandakar"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <img src="https://img.shields.io/github/followers/rupakkhandakar?style=flat-square&logo=github&label=Followers" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=rupakkhandakar&color=FF6B9D&style=flat-square&label=Views" alt="Views" />
+  <a href="https://t.me/Rupak_Khandakar"><img src="https://img.shields.io/badge/Contact_Me-@Rupak_Khandakar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact me" /></a>
+  <a href="https://t.me/RK_support_group"><img src="https://img.shields.io/badge/Support_Group-RK_support_group-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Support group" /></a>
+  <a href="https://t.me/RupakKhandakar"><img src="https://img.shields.io/badge/Channel-@RupakKhandakar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Channel" /></a>
+  <a href="https://x.com/rupak_khandakar"><img src="https://img.shields.io/badge/X-@rupak_khandakar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://img.shields.io/github/followers/rupakkhandakar?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=rupakkhandakar&color=FF6B9D&style=for-the-badge&label=Views" alt="Views" />
 </p>
 
 ### ⚡ Who Am I
